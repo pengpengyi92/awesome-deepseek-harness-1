@@ -4199,22 +4199,18 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## Star History
 
-<img alt="Star History Chart" src="./assets/star-history.svg" width="600">
+**Archived upstream snapshot — through 2026-08-19.** This chart belongs to
+[`Dominic789654/awesome-deepseek-harness`](https://github.com/Dominic789654/awesome-deepseek-harness),
+not to this fork (`pengpengyi92/awesome-deepseek-harness-1`). It is retained for
+reference and does not establish continuous daily sampling in this fork.
 
-<sub>Self-hosted chart, regenerated daily from this repo's own star count. GitHub
-[restricted the public stargazers API](https://github.blog/changelog/2026-06-30-upcoming-access-restrictions-to-public-api-endpoints-and-ui-views/)
-on 2026-06-30, so third-party live charts (star-history.com and similar) no longer render for
-repositories the chart service does not collaborate on. Data collection starts 2026-08-19.</sub>
+<img alt="Archived upstream star history for Dominic789654/awesome-deepseek-harness, through 2026-08-19" src="./assets/star-history.svg" width="600">
 
-<!-- Previous third-party embed, kept for easy restore if GitHub reopens the API:
-<a href="https://star-history.com/#Dominic789654/awesome-deepseek-harness&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date" width="600">
-  </picture>
-</a>
--->
+The [original data and provenance comments](./assets/star-history.tsv) are
+preserved: four points before 2026-08-19 were backfilled from dated upstream
+project logs; upstream describes the final point (154 stars on 2026-08-19) as
+its first live API sample. Unrecorded dates remain absent. The snapshot is not
+the upstream repository's current star count or this fork's growth record.
 
 ## License
 

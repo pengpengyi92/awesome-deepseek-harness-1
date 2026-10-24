@@ -4199,13 +4199,17 @@ _打包好的任务能力（基于 markdown 的 skill、工具包）。_
 
 ## Star 趋势
 
-<a href="https://star-history.com/#Dominic789654/awesome-deepseek-harness&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date">
-    <img alt="Star 趋势图" src="https://api.star-history.com/svg?repos=Dominic789654/awesome-deepseek-harness&type=Date" width="600">
-  </picture>
-</a>
+**上游历史快照——截至 2026-08-19。** 此图属于
+[`Dominic789654/awesome-deepseek-harness`](https://github.com/Dominic789654/awesome-deepseek-harness)，
+不属于当前 fork（`pengpengyi92/awesome-deepseek-harness-1`）。保留此图供历史参考，
+不代表当前 fork 曾持续进行每日采样。
+
+<img alt="上游 Dominic789654/awesome-deepseek-harness 的星标历史快照，截至 2026-08-19" src="./assets/star-history.svg" width="600">
+
+[原始数据及来源注释](./assets/star-history.tsv)保持不变：2026-08-19 之前的四个数据点
+由上游带日期的项目日志回填；上游将最后一个数据点（2026-08-19 的 154 stars）
+记为首次 API 实时采样。没有记录的日期仍然留空。此快照既不是上游当前星标总数，
+也不是本 fork 的增长记录。
 
 ## 许可
 
